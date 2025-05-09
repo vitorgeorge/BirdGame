@@ -5,3 +5,4 @@ gravity = 0.1;
 
 //Começar Speed Zero
 image_speed = 0;
+

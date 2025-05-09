@@ -7,6 +7,8 @@ global.perdeu = false;
 global.level = 1;
 
 global.pontos = 0;
+
+global.lista_pontos = [100, 250, 500, 800, 1200, 1800, 2500, 3500, 5000];
 #endregion
 
 #region
@@ -15,7 +17,7 @@ function perde_game(){
 	
 	if(global.perdeu == true) exit;
 	global.perdeu = true;
-
+	
 	//sobe uma vez e depois cai
 	vspeed = -4;
 	hspeed = -2;

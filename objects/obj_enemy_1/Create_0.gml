@@ -3,7 +3,7 @@
 
 
 //Indo pra esquerda
-hspeed = -3;
+//hspeed = -3;
 
 //mudando a scala X para ele ficar de frente
 image_xscale = -1;

@@ -7,3 +7,5 @@ global.perdeu = false;
 global.pontos = 0;
 //Avisando pra reiniciar
 game_restart();
+
+global.level = 1;
