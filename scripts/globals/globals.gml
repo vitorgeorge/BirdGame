@@ -4,6 +4,8 @@
 
 global.perdeu = false;
 
+global.level = 1;
+
 global.pontos = 0;
 #endregion
 
