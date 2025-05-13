@@ -25,6 +25,7 @@
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"backgrounds","folderPath":"folders/Sprites/backgrounds.yy","name":"backgrounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"birds","folderPath":"folders/Sprites/birds.yy","name":"birds","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"collectibles","folderPath":"folders/Sprites/collectibles.yy","name":"collectibles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"level","folderPath":"folders/Sprites/level.yy","name":"level","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"misc","folderPath":"folders/Sprites/misc.yy","name":"misc","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -40,6 +41,7 @@
   "resources":[
     {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},},
     {"id":{"name":"obj_arvore","path":"objects/obj_arvore/obj_arvore.yy",},},
+    {"id":{"name":"obj_collectible","path":"objects/obj_collectible/obj_collectible.yy",},},
     {"id":{"name":"obj_enemy_1","path":"objects/obj_enemy_1/obj_enemy_1.yy",},},
     {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
@@ -56,6 +58,7 @@
     {"id":{"name":"spr_bird_1","path":"sprites/spr_bird_1/spr_bird_1.yy",},},
     {"id":{"name":"spr_bird_2","path":"sprites/spr_bird_2/spr_bird_2.yy",},},
     {"id":{"name":"spr_bird_3","path":"sprites/spr_bird_3/spr_bird_3.yy",},},
+    {"id":{"name":"spr_collectible","path":"sprites/spr_collectible/spr_collectible.yy",},},
     {"id":{"name":"spr_level","path":"sprites/spr_level/spr_level.yy",},},
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},},
   ],

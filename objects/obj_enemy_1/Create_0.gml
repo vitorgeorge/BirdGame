@@ -7,3 +7,4 @@
 
 //mudando a scala X para ele ficar de frente
 image_xscale = -1;
+

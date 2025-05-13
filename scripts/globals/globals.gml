@@ -8,6 +8,8 @@ global.level = 1;
 
 global.pontos = 0;
 
+global.coletaveis = 0;
+
 global.lista_pontos = [100, 250, 500, 800, 1200, 1800, 2500, 3500, 5000];
 #endregion
 
