@@ -12,7 +12,9 @@ var _meio_da_tela = window_get_width() / 2;
 
 draw_text(20, 50, global.lista_pontos[global.level-1]);
 
-draw_text(20,80, "Coletáveis: "+string(global.coletaveis));
+draw_text(70,80, string(global.coletaveis));
+
+draw_sprite_ext(spr_collectible, 0, 40, 90, 1, 1, 0, c_white, 1);
 //DESENHANDO A SPRITE DO LEVEL
 //draw_sprite(spr_level, global.level, _meio_da_tela, 20);
 

@@ -3,5 +3,5 @@
 if(global.perdeu == false){
 	global.coletaveis++;
 
-	instance_destroy();
+	instance_destroy(); //PODIA TER FEITO NO COLETÁVEL, E COLOCADO O instance_destroy(other) que daí ele destrói o outro
 }
